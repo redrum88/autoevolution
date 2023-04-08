@@ -1,10 +1,12 @@
 # Web Scrap [AutoEvolution.com](https://www.autoevolution.com/)
 
+* Download [dataset_from_1899_to_2024.csv - 6941 rows](https://github.com/redrum88/autoevolution/raw/main/data/dataset_from_1899_to_2024.csv)  - 6941 rows
+
 ## Dataset summary:
-* **Brands:** `122` | *Expected:* - `127`
+* **Brands:** `122` |
 * **Models:** `2792` 
 * **Generations:** `6941`
-* **Images:** `-` | *Expected:* - `18842315`
+* **Images:** `-`
 
 ## Raw data single row example
 
