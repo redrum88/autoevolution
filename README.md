@@ -1,6 +1,6 @@
 # Web Scrap [AutoEvolution.com](https://www.autoevolution.com/)
 
-* Download [dataset_from_1899_to_2024.csv - 6941 rows](https://github.com/redrum88/autoevolution/raw/main/data/dataset_from_1899_to_2024.csv)  - 6941 rows
+* Download [dataset_from_1899_to_2024.csv](https://github.com/redrum88/autoevolution/raw/main/data/dataset_from_1899_to_2024.csv)  - 6941 rows
 
 ## Dataset summary:
 * **Brands:** `122` |
