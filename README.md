@@ -2,6 +2,17 @@
 
 * Download [dataset_from_1899_to_2024.csv](https://github.com/redrum88/autoevolution/raw/main/data/dataset_from_1899_to_2024.csv)  - 6941 rows
 
+## TODO
+* Scrap data ✅
+* Clean data
+* Analyse data
+* Visualize data
+* Download images
+* Preprocess data
+* Preprocess images
+* Create base model for image classification https://paperswithcode.com/task/image-classification
+* ...
+
 ## Dataset summary:
 * **Brands:** `122` |
 * **Models:** `2792` 
