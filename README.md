@@ -10,13 +10,13 @@ Download
 
 ## TODO
 * Scrap data ✅
-* Clean data
+* Clean data ✅
+* Download images
 * Analyse data
 * Visualize data
-* Download images
 * Preprocess data
 * Preprocess images
-* Create base model for image classification https://paperswithcode.com/task/image-classification
+* Create base model for image classification for 2792 different car models https://paperswithcode.com/task/image-classification
 * ...
 
 ## Dataset summary:
