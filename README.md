@@ -11,7 +11,7 @@ Download
 ## TODO
 * Scrap data ✅
 * Clean data ✅
-* Download images
+* Download images 50% done
 * Analyse data
 * Visualize data
 * Preprocess data
