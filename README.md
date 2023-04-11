@@ -7,7 +7,8 @@ Download
 | :-: | :-: | :-: |
 | Raw data | [dataset_from_1899_to_2024.csv](https://github.com/redrum88/autoevolution/raw/main/data/dataset_from_1899_to_2024.csv)  | *Rows* - `6941` |
 | Full data | [full_data_1899-2024.csv](https://github.com/redrum88/autoevolution/raw/main/data/full_data_1899-2024.csv) | *Columns* - `42`, *Rows* - `6941` |
-
+| Filtered *Min:* `20` *Max:* `200` images| [filtered_20-200.csv](https://github.com/redrum88/autoevolution/raw/main/data/filtered_20-200.csv)
+| Filtered *Min:* `30` *Max:* `200` images| [filtered_30-200.csv](https://github.com/redrum88/autoevolution/raw/main/data/filtered_30-200.csv)
 ## TODO
 * Scrap data ✅
 * Clean data ✅
